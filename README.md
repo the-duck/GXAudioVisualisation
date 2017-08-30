@@ -1,6 +1,16 @@
-GXAudioVisualisation (GxAV) - Generate Audio Visualization in Blender!
-User manual on the wiki - https://github.com/gethiox/GXAudioVisualisation/wiki
+
+#GXAudioVisualisation (GxAV)
+
+Generate Audio Visualization in Blender!
+-----
+
+User manual on the wiki - https://github.com/the-duck/GXAudioVisualisation/wiki
 Check promotion video! https://youtu.be/cXTEqtcLDKU
+
+
+#### 30.08.2017 - 1.01 #### (the-duck)
+- Added option to use object instead of cube
+- Added option to merge the objects when using the Array option
 
 #### 21.08.2014 - 1.0 STABLE \o/ ####
 - 'Tercja bake engine' has been fully implemented, many thanks to Xevaquor for tercja.py module!
@@ -60,11 +70,12 @@ Check promotion video! https://youtu.be/cXTEqtcLDKU
 
 #### Unknown Date ####
 
-NOTES: script still must be run in text editor, no addon-mode yet, agrh (api change, bpy.context restrictions 
+NOTES: script still must be run in text editor, no addon-mode yet, agrh (api change, bpy.context restrictions
 safsfsfa)
 I was fighting with it so long… I lose my coding power (my coding power never exist).
 
 TODO:
+- Make Array option vertically center
 - Create GitWiki
 - MAKE SCRIPT AS ADDON!
 
