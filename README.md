@@ -1,10 +1,11 @@
 
-#GXAudioVisualisation (GxAV)
+GXAudioVisualisation (GxAV)
+====
 
 Generate Audio Visualization in Blender!
 -----
 
-User manual on the wiki - https://github.com/the-duck/GXAudioVisualisation/wiki
+User manual on the wiki - https://github.com/gethiox/GXAudioVisualisation/wiki
 Check promotion video! https://youtu.be/cXTEqtcLDKU
 
 

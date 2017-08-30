@@ -18,11 +18,11 @@ along with this program.  If not, see http://www.gnu.org/licenses/
 
 bl_info = {
     "name": "GxAV",
-    "author": "Sławomir Kur (Gethiox) & Mark Spurgeon (the-duck)",
-    "version": (1, 0),
+    "author": "Sławomir Kur (Gethiox)",
+    "version": (1, 0, 1),
     "blender": (2, 7, 1),
     "location": "Properties > Scene",
-    "description": "Bake Spectrum Visualizer by sound file",
+    "description": "Bake Audio Visualisation ",
     "category": "Animation",
     "wiki_url": "https://github.com/gethiox/GXAudioVisualisation/wiki",
     "tracker_url": "https://github.com/gethiox/GXAudioVisualisation/issues"}
